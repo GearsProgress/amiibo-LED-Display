@@ -1,0 +1,15 @@
+DRC Rules Export File for PCB: C:\Users\Alex\My Drive\School\Classes\Capstone 1 & 2\Altium Designer Projects\Arduino_Prototype\MEGA2560_Rev3e.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_for_PolygonClass_Isolate_16|Scope=Board|Minimum=16.00
+RuleKind=Clearance|RuleName=Clearance_for_PolygonClass_Isolate_12|Scope=Board|Minimum=12.00
+RuleKind=SolderMaskExpansion|RuleName=Expansion_SMDSolder_OFF|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance (Same Net)|Scope=Board|Minimum=7.00
+RuleKind=Width|RuleName=Width_For_NetClass_power usb|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_for_NetClass_power usb|Scope=Board|Minimum=8.00
+RuleKind=Width|RuleName=Width_For_NetClass_gnd|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_for_NetClass_gnd|Scope=Board|Minimum=8.00
+RuleKind=Width|RuleName=Width_For_NetClass_power|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_for_NetClass_power|Scope=Board|Minimum=8.00
+RuleKind=SolderMaskExpansion|RuleName=mlMinStopFrame|Scope=Board|Minimum=2.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

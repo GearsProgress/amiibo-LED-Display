@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [MEGA2560_Rev3e.PcbDoc]
+   Generated File[MEGA2560_Rev3e.GTO]
+   Generated File[MEGA2560_Rev3e.GTP]
+   Generated File[MEGA2560_Rev3e.GTS]
+   Generated File[MEGA2560_Rev3e.GTL]
+   Generated File[MEGA2560_Rev3e.GBL]
+   Generated File[MEGA2560_Rev3e.GBS]
+   Generated File[MEGA2560_Rev3e.GBP]
+   Generated File[MEGA2560_Rev3e.GBO]
+   Generated File[MEGA2560_Rev3e.GM]
+   Generated File[MEGA2560_Rev3e.RUL]
+   Generated File[MEGA2560_Rev3e.EXTREP]
+   Generated File[MEGA2560_Rev3e.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 10:16:32 AM On 2/26/2024

@@ -1,0 +1,4 @@
+Output: BOM Checks Report
+Type  : BOM
+From  : BOM Document [NFC Antenna Prototype.BomDoc]
+   Generated File[BOM Checks Report-NFC Antenna Prototype.html]

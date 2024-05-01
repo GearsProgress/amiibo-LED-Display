@@ -1,0 +1,31 @@
+G04*
+G04 #@! TF.GenerationSoftware,Altium Limited,Altium Designer,24.1.2 (44)*
+G04*
+G04 Layer_Color=128*
+%FSLAX25Y25*%
+%MOIN*%
+G70*
+G04*
+G04 #@! TF.SameCoordinates,648C5357-8596-4598-863F-5FE4D4354F98*
+G04*
+G04*
+G04 #@! TF.FilePolarity,Positive*
+G04*
+G01*
+G75*
+G04:AMPARAMS|DCode=41|XSize=42mil|YSize=59mil|CornerRadius=0mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=0.000|XOffset=0mil|YOffset=0mil|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD41*
+21,1,0.04200,0.05900,0,0,0.0*
+21,1,0.04200,0.05900,0,0,0.0*
+1,1,0.00000,0.02100,-0.02950*
+1,1,0.00000,-0.02100,-0.02950*
+1,1,0.00000,-0.02100,0.02950*
+1,1,0.00000,0.02100,0.02950*
+%
+%ADD41ROUNDEDRECTD41*%
+D41*
+X45601Y130050D02*
+D03*
+X39601D02*
+D03*
+M02*

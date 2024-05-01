@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=L2-2
+Change Component Footprint: Designator=P1 Old Footprint=61301011021 New Footprint=61301011021
+Change Component Footprint: Designator=J1 Old Footprint=FP-22-28-4050-MFG New Footprint=FP-22-28-4050-MFG
+Change Component Footprint: Designator=C15 Old Footprint=WCAP-ASLL_D8H10.5 New Footprint=WCAP-ASLL_D8H10.5
+Added Pin To Net: NetName=NetC10_2 Pin=L2-2
+Added Room: Name=Component Schematics

@@ -1,0 +1,913 @@
+Removed Pin From Net: NetName=SCL Pin=COMMUNICATION-1
+Removed Pin From Net: NetName=SDA Pin=COMMUNICATION-2
+Removed Pin From Net: NetName=SCL Pin=IC3-43
+Removed Pin From Net: NetName=SDA Pin=IC3-44
+Removed Pin From Net: NetName=SCL Pin=JP6-1
+Removed Pin From Net: NetName=SDA Pin=JP6-2
+Removed Pin From Net: NetName=AREF Pin=JP6-3
+Removed Pin From Net: NetName=GND Pin=JP6-4
+Removed Pin From Net: NetName=PB7 Pin=JP6-5
+Removed Pin From Net: NetName=PE0 Pin=PWML-1
+Removed Pin From Net: NetName=PE1 Pin=PWML-2
+Removed Pin From Net: NetName=GND Pin=X1-4
+Removed Pin From Net: NetName=GND Pin=X1-5
+Removed Pin From Net: NetName=GND Pin=X1-6
+Removed Pin From Net: NetName=GND Pin=X1-7
+Removed Pin From Net: NetName=PWRIN Pin=X1-8
+Removed Pin From Net: NetName=PWRIN Pin=X1-9
+Change Component DesignItemId : Designator=ADCL Old DesignItemId=1X08 New DesignItemId=0058_FH254-108DF08500V
+Change Component DesignItemId : Designator=POWER Old DesignItemId=1X08 New DesignItemId=1217_FH254-108DF08500T21
+Change Component DesignItemId : Designator=JP5 Old DesignItemId=2X02 New DesignItemId=PINHD-2X2
+Change Component DesignItemId : Designator=ICSP1 Old DesignItemId=2X03 New DesignItemId=0114_PH254-203DF118A00V
+Change Component DesignItemId : Designator=ICSP Old DesignItemId=2X03 New DesignItemId=0114_PH254-203DF118A00V
+Change Component DesignItemId : Designator=XIO Old DesignItemId=2X18 New DesignItemId=0060_FH254-218DF08500V
+Change Component DesignItemId : Designator=L1 Old DesignItemId=0805 New DesignItemId=0001_BLM21PG300SN1D_/_MH2029-300Y
+Change Component DesignItemId : Designator=L2 Old DesignItemId=0805 New DesignItemId=0715_CV201210-100K
+Change Component DesignItemId : Designator=C10 Old DesignItemId=C0603-ROUND New DesignItemId=0006_1UF_0603/GRM188R61E105KA12D
+Change Component DesignItemId : Designator=C13 Old DesignItemId=C0603-ROUND New DesignItemId=0006_1UF_0603/GRM188R61E105KA12D
+Change Component DesignItemId : Designator=C1 Old DesignItemId=C0603-ROUND New DesignItemId=0014_22PF_0603
+Change Component DesignItemId : Designator=C14 Old DesignItemId=C0603-ROUND New DesignItemId=0014_22PF_0603
+Change Component DesignItemId : Designator=C15 Old DesignItemId=C0603-ROUND New DesignItemId=0014_22PF_0603
+Change Component DesignItemId : Designator=C2 Old DesignItemId=C0603-ROUND New DesignItemId=0015_100NF_0603
+Change Component DesignItemId : Designator=C3 Old DesignItemId=C0603-ROUND New DesignItemId=0015_100NF_0603
+Change Component DesignItemId : Designator=C4 Old DesignItemId=C0603-ROUND New DesignItemId=0015_100NF_0603
+Change Component DesignItemId : Designator=C5 Old DesignItemId=C0603-ROUND New DesignItemId=0015_100NF_0603
+Change Component DesignItemId : Designator=C6 Old DesignItemId=C0603-ROUND New DesignItemId=0015_100NF_0603
+Change Component DesignItemId : Designator=C7 Old DesignItemId=C0603-ROUND New DesignItemId=0015_100NF_0603
+Change Component DesignItemId : Designator=C8 Old DesignItemId=C0603-ROUND New DesignItemId=0015_100NF_0603
+Change Component DesignItemId : Designator=C9 Old DesignItemId=C0603-ROUND New DesignItemId=0015_100NF_0603
+Change Component DesignItemId : Designator=C11 Old DesignItemId=C0603-ROUND New DesignItemId=0015_100NF_0603
+Change Component DesignItemId : Designator=C12 Old DesignItemId=C0603-ROUND New DesignItemId=0015_100NF_0603
+Change Component DesignItemId : Designator=C16 Old DesignItemId=C0603-ROUND New DesignItemId=0015_100NF_0603
+Change Component DesignItemId : Designator=RN2 Old DesignItemId=CAY16 New DesignItemId=0003_064R_22R_/_CAY16-220J4LF
+Change Component DesignItemId : Designator=RN3 Old DesignItemId=CAY16 New DesignItemId=0005_064R_1K_/_CAY16-102J4LF
+Change Component DesignItemId : Designator=RN4 Old DesignItemId=CAY16 New DesignItemId=0005_064R_1K_/_CAY16-102J4LF
+Change Component DesignItemId : Designator=RN1 Old DesignItemId=CAY16 New DesignItemId=0016_064R_10K_/_CAY16-103J4LF
+Change Component DesignItemId : Designator=RN5 Old DesignItemId=CAY16 New DesignItemId=0016_064R_10K_/_CAY16-103J4LF
+Change Component DesignItemId : Designator=ON Old DesignItemId=CHIPLED_0805 New DesignItemId=0043_KPT-2012SGC
+Change Component DesignItemId : Designator=L Old DesignItemId=CHIPLED_0805 New DesignItemId=0044_KPT-2012YC
+Change Component DesignItemId : Designator=RX Old DesignItemId=CHIPLED_0805 New DesignItemId=0044_KPT-2012YC
+Change Component DesignItemId : Designator=TX Old DesignItemId=CHIPLED_0805 New DesignItemId=0044_KPT-2012YC
+Change Component DesignItemId : Designator=Z1 Old DesignItemId=CT/CN0603 New DesignItemId=0010_BRNCG0603MLC-05E
+Change Component DesignItemId : Designator=Z2 Old DesignItemId=CT/CN0603 New DesignItemId=0010_BRNCG0603MLC-05E
+Change Component DesignItemId : Designator=FD1 Old DesignItemId=FIDUCIA-MOUNT New DesignItemId=FIDUCIALMOUNT
+Change Component DesignItemId : Designator=FD2 Old DesignItemId=FIDUCIA-MOUNT New DesignItemId=FIDUCIALMOUNT
+Change Component DesignItemId : Designator=FD3 Old DesignItemId=FIDUCIA-MOUNT New DesignItemId=FIDUCIALMOUNT
+Change Component DesignItemId : Designator=FD4 Old DesignItemId=FIDUCIA-MOUNT New DesignItemId=FIDUCIALMOUNT
+Change Component DesignItemId : Designator=F1 Old DesignItemId=L1812 New DesignItemId=0002_MF-MSMF050-2
+Change Component DesignItemId : Designator=IC1 Old DesignItemId=LINEAR_SOT223 New DesignItemId=1870_LD1117S50CTR
+Change Component DesignItemId : Designator=D2 Old DesignItemId=MINIMELF New DesignItemId=0012_CD1206-S01575
+Change Component DesignItemId : Designator=D3 Old DesignItemId=MINIMELF New DesignItemId=0012_CD1206-S01575
+Change Component DesignItemId : Designator=IC4 Old DesignItemId=MLF32 New DesignItemId=0007_ATMEGA16U2-MUR
+Change Component DesignItemId : Designator=IC7 Old DesignItemId=MSOP08 New DesignItemId=0021_LMV358IDGKR
+Change Component DesignItemId : Designator=PC1 Old DesignItemId=PANASONIC_D New DesignItemId=0113_47UF
+Change Component DesignItemId : Designator=PC2 Old DesignItemId=PANASONIC_D New DesignItemId=0113_47UF
+Change Component DesignItemId : Designator=X2 Old DesignItemId=PN61729 New DesignItemId=0056_USB-B-S-RA-WT-SPCC
+Change Component DesignItemId : Designator=X1 Old DesignItemId=POWERSUPPLY_DC-21MM New DesignItemId=POWERSUPPLY_DC21MMX
+Change Component DesignItemId : Designator=Y2 Old DesignItemId=QS New DesignItemId=0019_P011052006_16M
+Change Component DesignItemId : Designator=R1 Old DesignItemId=R0603-ROUND New DesignItemId=0004_0603_1M
+Change Component DesignItemId : Designator=R2 Old DesignItemId=R0603-ROUND New DesignItemId=0004_0603_1M
+Change Component DesignItemId : Designator=Y1 Old DesignItemId=RESONATOR New DesignItemId=0011_CSTCE16M0V53-R0
+Change Component DesignItemId : Designator=D1 Old DesignItemId=SMB New DesignItemId=0020_M7
+Change Component DesignItemId : Designator=IC6 Old DesignItemId=SOT23-DBV New DesignItemId=0008_TEXLP2985-33DBVR
+Change Component DesignItemId : Designator=T1 Old DesignItemId=SOT-23 New DesignItemId=0297_PMV48XP
+Change Component DesignItemId : Designator=IC3 Old DesignItemId=TQFP100 New DesignItemId=0023_ATMEGA2560-16AU
+Change Component DesignItemId : Designator=RESET Old DesignItemId=TS42 New DesignItemId=0946_TS42031-160W-TR-7260
+Change Component Comment : Designator=X2 Old Comment= New Comment=0056_USB-B-S-RA-WT-SPCC
+Change Component Comment : Designator=FD1 Old Comment= New Comment=FIDUCIALMOUNT
+Change Component Comment : Designator=FD2 Old Comment= New Comment=FIDUCIALMOUNT
+Change Component Comment : Designator=FD3 Old Comment= New Comment=FIDUCIALMOUNT
+Change Component Comment : Designator=FD4 Old Comment= New Comment=FIDUCIALMOUNT
+Change Component Comment : Designator=GROUND Old Comment= New Comment=SJ
+Change Component Comment : Designator=RESET-EN Old Comment= New Comment=SJ
+Change Component Description : Designator=D1 Old Description= New Description=1.0A 40V SURFACE MOUNT GLASS PASSIVATED RECTIFIER   M7
+Change Component Description : Designator=RN3 Old Description= New Description=1K 064R
+Change Component Description : Designator=RN4 Old Description= New Description=1K 064R
+Change Component Description : Designator=R1 Old Description= New Description=1M 0603
+Change Component Description : Designator=R2 Old Description= New Description=1M 0603
+Change Component Description : Designator=C10 Old Description= New Description=1uF 0603
+Change Component Description : Designator=C13 Old Description= New Description=1uF 0603
+Change Component Description : Designator=ICSP1 Old Description= New Description=3x2 M V h 8,5 mm p2,54
+Change Component Description : Designator=ICSP Old Description= New Description=3x2 M V h 8,5 mm p2,54
+Change Component Description : Designator=IC4 Old Description= New Description=8-bit Microcontroller with 16K Bytes of ISP Flash and USB Controller   ATMEGA16U2-MUR
+Change Component Description : Designator=IC3 Old Description= New Description=8-bit Microcontroller with 256K Bytes In-System Programmable Flash - ATMEGA2560-16AU
+Change Component Description : Designator=RN1 Old Description= New Description=10K 064 R
+Change Component Description : Designator=RN5 Old Description= New Description=10K 064 R
+Change Component Description : Designator=L2 Old Description= New Description=10uH 0805
+Change Component Description : Designator=Y1 Old Description= New Description=16Mhz - SMD
+Change Component Description : Designator=Y2 Old Description= New Description=16MHz THT
+Change Component Description : Designator=XIO Old Description= New Description=18x2 F V h 8,5 p2,54
+Change Component Description : Designator=T1 Old Description= New Description=20 V, 3.5 A P-channel Trench MOSFET - PMV48XP
+Change Component Description : Designator=C1 Old Description= New Description=22pF 0603
+Change Component Description : Designator=C14 Old Description= New Description=22pF 0603
+Change Component Description : Designator=C15 Old Description= New Description=22pF 0603
+Change Component Description : Designator=RN2 Old Description= New Description=22R 064R
+Change Component Description : Designator=PC1 Old Description= New Description=47uF
+Change Component Description : Designator=PC2 Old Description= New Description=47uF
+Change Component Description : Designator=C2 Old Description= New Description=100nF 0603 50V
+Change Component Description : Designator=C3 Old Description= New Description=100nF 0603 50V
+Change Component Description : Designator=C4 Old Description= New Description=100nF 0603 50V
+Change Component Description : Designator=C5 Old Description= New Description=100nF 0603 50V
+Change Component Description : Designator=C6 Old Description= New Description=100nF 0603 50V
+Change Component Description : Designator=C7 Old Description= New Description=100nF 0603 50V
+Change Component Description : Designator=C8 Old Description= New Description=100nF 0603 50V
+Change Component Description : Designator=C9 Old Description= New Description=100nF 0603 50V
+Change Component Description : Designator=C11 Old Description= New Description=100nF 0603 50V
+Change Component Description : Designator=C12 Old Description= New Description=100nF 0603 50V
+Change Component Description : Designator=C16 Old Description= New Description=100nF 0603 50V
+Change Component Description : Designator=IC6 Old Description= New Description=150-mA LOW-NOISE LOW-DROPOUT REGULATOR WITH SHUTDOWN   LP2985-33DBVR
+Change Component Description : Designator=F1 Old Description= New Description=500 mA Multifuse � Polyfuse
+Change Component Description : Designator=L1 Old Description= New Description=BLM21
+Change Component Description : Designator=Z1 Old Description= New Description=CG0603MLC-05E
+Change Component Description : Designator=Z2 Old Description= New Description=CG0603MLC-05E
+Change Component Description : Designator=IC7 Old Description= New Description=Dual low-voltage (2.7 V to 5.5 V), operational amplifiers with rail-to-rail output swing   LMV358IDGKR
+Change Component Description : Designator=ADCL Old Description= New Description=Female Connector strip for Arduino bases - 8x1 F V h 8,5 p2,54mm
+Change Component Description : Designator=POWER Old Description= New Description=Female Connector strip for Arduino bases - 8x1 F V h 8,5 p2,54 serigrafato POWER
+Change Component Description : Designator=ON Old Description= New Description=LED GREEN - SMD-0805
+Change Component Description : Designator=L Old Description= New Description=LED YELLOW - SMD - 0805
+Change Component Description : Designator=RX Old Description= New Description=LED YELLOW - SMD - 0805
+Change Component Description : Designator=TX Old Description= New Description=LED YELLOW - SMD - 0805
+Change Component Description : Designator=IC1 Old Description= New Description=Low-dropout linear regulator 5V  -LM1117IMPX-5.0
+Change Component Description : Designator=JP5 Old Description= New Description=PIN HEADER
+Change Component Description : Designator=RESET Old Description= New Description=Pushbutton 6x6 Smd - White
+Change Component Description : Designator=D2 Old Description= New Description=small-signal high-speed Switching Diodes   CD1206
+Change Component Description : Designator=D3 Old Description= New Description=small-signal high-speed Switching Diodes   CD1206
+Change Component Description : Designator=GROUND Old Description= New Description=SMD solder JUMPER
+Change Component Description : Designator=RESET-EN Old Description= New Description=SMD solder JUMPER
+Change Component Description : Designator=X2 Old Description= New Description=USB - B
+Change Component Library : Designator=C1 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C2 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C3 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C4 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C5 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C6 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C7 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C8 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C9 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C10 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C11 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C12 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C13 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C14 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C15 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=C16 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=PC1 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=PC2 Old Library= New Library=Condensatori.IntLib
+Change Component Library : Designator=ADCL Old Library= New Library=Connettori.IntLib
+Change Component Library : Designator=ICSP1 Old Library= New Library=Connettori.IntLib
+Change Component Library : Designator=ICSP Old Library= New Library=Connettori.IntLib
+Change Component Library : Designator=POWER Old Library= New Library=Connettori.IntLib
+Change Component Library : Designator=X2 Old Library= New Library=Connettori.IntLib
+Change Component Library : Designator=XIO Old Library= New Library=Connettori.IntLib
+Change Component Library : Designator=Y1 Old Library= New Library=Cristalli.IntLib
+Change Component Library : Designator=Y2 Old Library= New Library=Cristalli.IntLib
+Change Component Library : Designator=D1 Old Library= New Library=Diodi.IntLib
+Change Component Library : Designator=D2 Old Library= New Library=Diodi.IntLib
+Change Component Library : Designator=D3 Old Library= New Library=Diodi.IntLib
+Change Component Library : Designator=L2 Old Library= New Library=Induttanze.IntLib
+Change Component Library : Designator=IC1 Old Library= New Library=IntegratedCircuits.IntLib
+Change Component Library : Designator=IC3 Old Library= New Library=IntegratedCircuits.IntLib
+Change Component Library : Designator=IC4 Old Library= New Library=IntegratedCircuits.IntLib
+Change Component Library : Designator=IC6 Old Library= New Library=IntegratedCircuits.IntLib
+Change Component Library : Designator=IC7 Old Library= New Library=IntegratedCircuits.IntLib
+Change Component Library : Designator=GROUND Old Library= New Library=jumper.IntLib
+Change Component Library : Designator=RESET-EN Old Library= New Library=jumper.IntLib
+Change Component Library : Designator=L Old Library= New Library=Opto.IntLib
+Change Component Library : Designator=ON Old Library= New Library=Opto.IntLib
+Change Component Library : Designator=RX Old Library= New Library=Opto.IntLib
+Change Component Library : Designator=TX Old Library= New Library=Opto.IntLib
+Change Component Library : Designator=F1 Old Library= New Library=Protezione.IntLib
+Change Component Library : Designator=L1 Old Library= New Library=Protezione.IntLib
+Change Component Library : Designator=Z1 Old Library= New Library=Protezione.IntLib
+Change Component Library : Designator=Z2 Old Library= New Library=Protezione.IntLib
+Change Component Library : Designator=R1 Old Library= New Library=Resistenze.IntLib
+Change Component Library : Designator=R2 Old Library= New Library=Resistenze.IntLib
+Change Component Library : Designator=RN1 Old Library= New Library=Resistenze.IntLib
+Change Component Library : Designator=RN2 Old Library= New Library=Resistenze.IntLib
+Change Component Library : Designator=RN3 Old Library= New Library=Resistenze.IntLib
+Change Component Library : Designator=RN4 Old Library= New Library=Resistenze.IntLib
+Change Component Library : Designator=RN5 Old Library= New Library=Resistenze.IntLib
+Change Component Library : Designator=FD1 Old Library= New Library=SmartPrj.IntLib
+Change Component Library : Designator=FD2 Old Library= New Library=SmartPrj.IntLib
+Change Component Library : Designator=FD3 Old Library= New Library=SmartPrj.IntLib
+Change Component Library : Designator=FD4 Old Library= New Library=SmartPrj.IntLib
+Change Component Library : Designator=JP5 Old Library= New Library=SmartPrj.IntLib
+Change Component Library : Designator=X1 Old Library= New Library=SmartPrj.IntLib
+Change Component Library : Designator=RESET Old Library= New Library=Switches.IntLib
+Change Component Library : Designator=T1 Old Library= New Library=Transistors.IntLib
+Change component parameters: Designator = "ADCL" ("ADCL"); Footprint = "1X08"; UniqueID = "\RQXCHPHK" ("RQXCHPHK")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0058_FH254-108DF08500V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Connettori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "FH254-108DF08500V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "PINHD8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Connettori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C0603-ROUND"; UniqueID = "\LVCIUDVQ" ("LVCIUDVQ")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0014_22PF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "22pF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C0603-ROUND"; UniqueID = "\EQQHXRXP" ("EQQHXRXP")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0015_100NF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "cl10b104kbnc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C0603-ROUND"; UniqueID = "\HTOWWOCV" ("HTOWWOCV")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0015_100NF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "cl10b104kbnc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C0603-ROUND"; UniqueID = "\SAYMYTVX" ("SAYMYTVX")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0015_100NF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "cl10b104kbnc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C0603-ROUND"; UniqueID = "\QFMWUOUH" ("QFMWUOUH")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0015_100NF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "cl10b104kbnc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C0603-ROUND"; UniqueID = "\YPVUHOLX" ("YPVUHOLX")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0015_100NF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "cl10b104kbnc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "C0603-ROUND"; UniqueID = "\YDPQKWBR" ("YDPQKWBR")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0015_100NF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "cl10b104kbnc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "C0603-ROUND"; UniqueID = "\BOQGDJLT" ("BOQGDJLT")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0015_100NF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "cl10b104kbnc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "C0603-ROUND"; UniqueID = "\KDHFWICA" ("KDHFWICA")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0015_100NF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "cl10b104kbnc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "C0603-ROUND"; UniqueID = "\UGGUGKYM" ("UGGUGKYM")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0006_1UF_0603/GRM188R61E105KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "1uF_0603/GRM188R61E105KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "C0603-ROUND"; UniqueID = "\SJUSXFMN" ("SJUSXFMN")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0015_100NF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "cl10b104kbnc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "C0603-ROUND"; UniqueID = "\OYJVBNQM" ("OYJVBNQM")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0015_100NF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "cl10b104kbnc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "C0603-ROUND"; UniqueID = "\UKMXXGUR" ("UKMXXGUR")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0006_1UF_0603/GRM188R61E105KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "1uF_0603/GRM188R61E105KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "C0603-ROUND"; UniqueID = "\GXJRBUEQ" ("GXJRBUEQ")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0014_22PF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "22pF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "C0603-ROUND"; UniqueID = "\KOSDVYGE" ("KOSDVYGE")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0014_22PF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "22pF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "C0603-ROUND"; UniqueID = "\KNHAFEVG" ("KNHAFEVG")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0015_100NF_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "cl10b104kbnc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SMB"; UniqueID = "\FIEAJKCK" ("FIEAJKCK")
+Change component parameters (AddParameter): Name = "CASE"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0020_M7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Diodi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "M7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Diodi"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "MINIMELF"; UniqueID = "\EPDMIMDE" ("EPDMIMDE")
+Change component parameters (AddParameter): Name = "CASE"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0012_CD1206-S01575"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Diodi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "CD1206-S01575"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Diodi"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "MINIMELF"; UniqueID = "\ANEKIBUM" ("ANEKIBUM")
+Change component parameters (AddParameter): Name = "CASE"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0012_CD1206-S01575"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Diodi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "CD1206-S01575"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Diodi"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1" ("F1"); Footprint = "L1812"; UniqueID = "\FJSFWWGG" ("FJSFWWGG")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0002_MF-MSMF050-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Protezione"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "MF-MSMF050-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "L-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Protezione"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FD1" ("FD1"); Footprint = "FIDUCIA-MOUNT"; UniqueID = "\INUDYJYW" ("INUDYJYW")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "FIDUCIALMOUNT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "FIDUCIAL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FD2" ("FD2"); Footprint = "FIDUCIA-MOUNT"; UniqueID = "\MDMMDUPW" ("MDMMDUPW")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "FIDUCIALMOUNT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "FIDUCIAL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FD3" ("FD3"); Footprint = "FIDUCIA-MOUNT"; UniqueID = "\FHNPVAKH" ("FHNPVAKH")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "FIDUCIALMOUNT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "FIDUCIAL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FD4" ("FD4"); Footprint = "FIDUCIA-MOUNT"; UniqueID = "\NAJECBPE" ("NAJECBPE")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "FIDUCIALMOUNT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "FIDUCIAL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "GROUND" ("GROUND"); Footprint = "SJ"; UniqueID = "\ARSQAFGH" ("ARSQAFGH")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "SJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "jumper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SJ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "LINEAR_SOT223"; UniqueID = "\NSDSTWSK" ("NSDSTWSK")
+Change component parameters (AddParameter): Name = "CASE"; Value = "SOT223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "1870_LD1117S50CTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IntegratedCircuits"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "LD1117S50CTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "LINEAR_VREG-O2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Circuito_Integrato"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC3" ("IC3"); Footprint = "TQFP100"; UniqueID = "\HOOSRXWH" ("HOOSRXWH")
+Change component parameters (AddParameter): Name = "CASE"; Value = "TQFP100_14x14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0023_ATMEGA2560-16AU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GND"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IntegratedCircuits"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "ATMEGA2560-16AU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "86-I/O-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Circuito_Integrato"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC4" ("IC4"); Footprint = "MLF32"; UniqueID = "\KHFDTJRE" ("KHFDTJRE")
+Change component parameters (AddParameter): Name = "CASE"; Value = "QFN32_5x5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0007_ATMEGA16U2-MUR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IntegratedCircuits"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "ATMEGA16U2-MUR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "ATMEL_MEGA8U2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Circuito_Integrato"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC6" ("IC6"); Footprint = "SOT23-DBV"; UniqueID = "\XFUXSICM" ("XFUXSICM")
+Change component parameters (AddParameter): Name = "CASE"; Value = "SOT23-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0008_TEXLP2985-33DBVR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IntegratedCircuits"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "TEXLP2985-33DBVR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "LP2985-XXDBVR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Circuito_Integrato"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC7" ("IC7"); Footprint = "MSOP08"; UniqueID = "\DCSAJUHG" ("DCSAJUHG")
+Change component parameters (AddParameter): Name = "CASE"; Value = "MSOP8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0021_LMV358IDGKR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_2"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_3"; Value = "P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IntegratedCircuits"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "LMV358IDGKR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "OPAMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_2"; Value = "OPAMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_3"; Value = "PWR+-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Circuito_Integrato"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "V+"; Value = "V+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "V-"; Value = "V-"; VariantName = "[No Variations]"
+Change component parameters: Designator = "ICSP" ("ICSP"); Footprint = "2X03"; UniqueID = "\TBRPAABE" ("TBRPAABE")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0114_PH254-203DF118A00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Connettori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "PH254-203DF118A00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "PINH2X3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Connettori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "ICSP1" ("ICSP1"); Footprint = "2X03"; UniqueID = "\NMWEQCFU" ("NMWEQCFU")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0114_PH254-203DF118A00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Connettori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "PH254-203DF118A00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "PINH2X3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Connettori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP5" ("JP5"); Footprint = "2X02"; UniqueID = "\QUETKTAR" ("QUETKTAR")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "PINHD-2X2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "PINH2X2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L" ("L"); Footprint = "CHIPLED_0805"; UniqueID = "\WVBFFUDE" ("WVBFFUDE")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0044_KPT-2012YC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Opto"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "KPT-2012YC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Opto"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "0805"; UniqueID = "\RVBTQKPL" ("RVBTQKPL")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0001_BLM21PG300SN1D_/_MH2029-300Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Protezione"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "BLM21PG300SN1D_/_MH2029-300Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Protezione"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "0805"; UniqueID = "\HPRSCDRW" ("HPRSCDRW")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0715_CV201210-100K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Induttanze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "CV201210-100K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Induttanze"; VariantName = "[No Variations]"
+Change component parameters: Designator = "ON" ("ON"); Footprint = "CHIPLED_0805"; UniqueID = "\YCOKPTPQ" ("YCOKPTPQ")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0043_KPT-2012SGC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Opto"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "KPT-2012SGC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Opto"; VariantName = "[No Variations]"
+Change component parameters: Designator = "PC1" ("PC1"); Footprint = "PANASONIC_D"; UniqueID = "\ODDWTTPU" ("ODDWTTPU")
+Change component parameters (AddParameter): Name = "+"; Value = "+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0113_47UF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "CPOL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "PC2" ("PC2"); Footprint = "PANASONIC_D"; UniqueID = "\AVBVWDHX" ("AVBVWDHX")
+Change component parameters (AddParameter): Name = "+"; Value = "+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0113_47UF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "CPOL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Condensatori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "POWER" ("POWER"); Footprint = "1X08"; UniqueID = "\NEIXYOPT" ("NEIXYOPT")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "1217_FH254-108DF08500T21"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Connettori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "FH254-108DF08500T21"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "PINHD8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Connettori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R0603-ROUND"; UniqueID = "\JJFLTBDY" ("JJFLTBDY")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0004_0603_1M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "0603_1M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R0603-ROUND"; UniqueID = "\FJWGMNSJ" ("FJWGMNSJ")
+Change component parameters (AddParameter): Name = "CASE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0004_0603_1M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "0603_1M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RESET" ("RESET"); Footprint = "TS42"; UniqueID = "\RSIGDLNV" ("RSIGDLNV")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0946_TS42031-160W-TR-7260"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Switches"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "IT-1157AHNP-160G-G_GTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "ST-MOD_V1.4_TS42"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Switches"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RESET-EN" ("RESET-EN"); Footprint = "SJ"; UniqueID = "\CNTRPEUA" ("CNTRPEUA")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "SJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "jumper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SJ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RN1" ("RN1"); Footprint = "CAY16"; UniqueID = "\DAVWDPQN" ("DAVWDPQN")
+Change component parameters (AddParameter): Name = "CASE"; Value = "SMD_3,2x1,6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0016_064R_10K_/_CAY16-103J4LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_2"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_3"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_4"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "064R_10K_/_CAY16-103J4LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_2"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_3"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_4"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RN2" ("RN2"); Footprint = "CAY16"; UniqueID = "\URAEMOMY" ("URAEMOMY")
+Change component parameters (AddParameter): Name = "CASE"; Value = "SMD_3,2x1,6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0003_064R_22R_/_CAY16-220J4LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_2"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_3"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_4"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "064R_22R_/_CAY16-220J4LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_2"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_3"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_4"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RN3" ("RN3"); Footprint = "CAY16"; UniqueID = "\PCXYALAD" ("PCXYALAD")
+Change component parameters (AddParameter): Name = "CASE"; Value = "SMD_3,2x1,6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0005_064R_1K_/_CAY16-102J4LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_2"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_3"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_4"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "064R_1K_/_CAY16-102J4LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_2"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_3"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_4"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RN4" ("RN4"); Footprint = "CAY16"; UniqueID = "\IICOLRAE" ("IICOLRAE")
+Change component parameters (AddParameter): Name = "CASE"; Value = "SMD_3,2x1,6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0005_064R_1K_/_CAY16-102J4LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_2"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_3"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_4"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "064R_1K_/_CAY16-102J4LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_2"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_3"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_4"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RN5" ("RN5"); Footprint = "CAY16"; UniqueID = "\BPEXPXUG" ("BPEXPXUG")
+Change component parameters (AddParameter): Name = "CASE"; Value = "SMD_3,2x1,6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0016_064R_10K_/_CAY16-103J4LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_2"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_3"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_4"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "064R_10K_/_CAY16-103J4LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_2"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_3"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_4"; Value = "R1NV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Resistenze"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RX" ("RX"); Footprint = "CHIPLED_0805"; UniqueID = "\MMWWMGUL" ("MMWWMGUL")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0044_KPT-2012YC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Opto"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "KPT-2012YC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Opto"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T1" ("T1"); Footprint = "SOT-23"; UniqueID = "\PREJPCPF" ("PREJPCPF")
+Change component parameters (AddParameter): Name = "CASE"; Value = "SOT23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0297_PMV48XP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Transistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "PMV48XP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "P_MOSFET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Transistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TX" ("TX"); Footprint = "CHIPLED_0805"; UniqueID = "\LKTRUHAC" ("LKTRUHAC")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0044_KPT-2012YC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Opto"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "KPT-2012YC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Opto"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1" ("X1"); Footprint = "POWERSUPPLY_DC-21MM"; UniqueID = "\FOQYNSQB" ("FOQYNSQB")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "POWERSUPPLY_DC21MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "POWERSUPPLY_DC21PWR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X2" ("X2"); Footprint = "PN61729"; UniqueID = "\CWDOKMHB" ("CWDOKMHB")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0056_USB-B-S-RA-WT-SPCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Connettori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "USB-B-S-RA-WT-SPCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "J11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Connettori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "USB"; Value = "USB"; VariantName = "[No Variations]"
+Change component parameters: Designator = "XIO" ("XIO"); Footprint = "2X18"; UniqueID = "\JMJVCASF" ("JMJVCASF")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0060_FH254-218DF08500V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Connettori"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "FH254-218DF08500V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "PINH2X18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Connettori"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "RESONATOR"; UniqueID = "\AHSBLRID" ("AHSBLRID")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0011_CSTCE16M0V53-R0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Cristalli"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "CSTCE16M0V53-R0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "RESONATOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Cristalli"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "QS"; UniqueID = "\NHOFVGCC" ("NHOFVGCC")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0019_P011052006_16M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Cristalli"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "P011052006 16M/FTX16M20S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "XTAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Cristalli"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Z1" ("Z1"); Footprint = "CT/CN0603"; UniqueID = "\IUIMMHNV" ("IUIMMHNV")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0010_BRNCG0603MLC-05E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Protezione"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "BRNCG0603MLC-05E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "VARISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Protezione"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Z2" ("Z2"); Footprint = "CT/CN0603"; UniqueID = "\SCVJAAYT" ("SCVJAAYT")
+Change component parameters (AddParameter): Name = "CASE"; Value = "CASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "0010_BRNCG0603MLC-05E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Protezione"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MONTHLY_USAGE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART_NUMBER"; Value = "BRNCG0603MLC-05E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "_____"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "VARISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Protezione"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=N$2 New Net Name=NetL_A
+Change Net Name : Old Net Name=N$3 New Net Name=NetON_A
+Change Net Name : Old Net Name=N$54 New Net Name=NetRN4_4
+Change Net Name : Old Net Name=N$55 New Net Name=NetRN4_3
+Added Class: Name=MEGA2560_Rev3e_0
+Added Class: Name=MEGA2560_Rev3e_1
