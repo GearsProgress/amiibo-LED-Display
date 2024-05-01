@@ -1,4 +1,4 @@
-# amiibo-LED-Display
+# amiibo LED Display
 
 This repository serves as documentation and storage for the UW-Stout Capstone project created by Dylan Robens, Austin Weber, Joaquin Sabin, and Alex Shroeder.
 
